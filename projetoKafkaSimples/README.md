@@ -1,5 +1,7 @@
 <h2 style="text-align:center"><strong>&gt;&gt;&gt; Apache Kafka - Mensageria &lt;&lt;&lt;</strong></h2>
 
+<p>&nbsp;</p>
+
 <p>Este projeto trata-se da implementa&ccedil;&atilde;o da plataforma de mensageria Kafka.</p>
 
 <p>Segundo a Apache: &quot;<em>O Apache Kafka &eacute; uma plataforma de streaming de eventos distribu&iacute;da de c&oacute;digo aberto usada por milhares de empresas para pipelines de dados de alto desempenho, an&aacute;lise de streaming, integra&ccedil;&atilde;o de dados e aplicativos de miss&atilde;o cr&iacute;tica.</em>&quot;.</p>
